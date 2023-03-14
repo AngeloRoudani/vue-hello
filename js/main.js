@@ -5,7 +5,7 @@ const { createApp } = Vue
             return {
                 message: 'Hi i am angelo and vue is awesome',
                 url: 'img/vue-js-methods2.png',
-                alt:'immagine',
+                immagine:'immagine',
                 color:'font_color'
             }
         }
